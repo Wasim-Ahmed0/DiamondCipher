@@ -16,9 +16,9 @@ A table of similar values such as :
 
 Becomes encrypted producing a new table such as :
 
-['d', 'j', 'p']
-['a', 'g', 'm']
-['e', 'k', 'q']
-['b', 'h', 'n']
-['f', 'l', 'r']
+['d', 'j', 'p']  
+['a', 'g', 'm']  
+['e', 'k', 'q']  
+['b', 'h', 'n']  
+['f', 'l', 'r']  
 ['c', 'i', 'o']
