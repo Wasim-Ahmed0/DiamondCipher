@@ -44,13 +44,12 @@ unencrypted_table = [["a", "b", "c"],
                      ["m", "n", "o"],
                      ["p", "q", "r"]]
 
-encrypted_table = solution(unencrypted_table)
-
 # print un-encrypted table
 print("This is the table to encrypt: \n")
 for row in unencrypted_table:
     print(row)
 
+encrypted_table = solution(unencrypted_table)
 
 # print encrypted table
 print("\nThis is the new encrypted table: \n")
